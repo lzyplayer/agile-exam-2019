@@ -1,12 +1,13 @@
-# TDD代码练习（Java）
+﻿## done by vickylzy
+#### TDD代码练习（Java）
 
-## 考查内容
+#### 考查内容
 
 1. Java基础语法
 2. 基础逻辑思维
 3. TDD实践
 
-## 题目要求
+#### 题目要求
 
 类`PaginationHelper`可以就给定的数组，给出基本的分页查询信息。
 
